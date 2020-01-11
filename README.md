@@ -5,3 +5,4 @@ IPPD Course Assistant
 
 - finished trainings and got access to SharePoint and the course email
 - went to class and introduced myself, got to meet most of the teams
+- made team groups on canvas (everyone is registered), and filled out the attendance
