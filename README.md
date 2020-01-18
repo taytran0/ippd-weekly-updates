@@ -4,6 +4,7 @@ IPPD Course Assistant
 01/13/2020 - 01/17/2020
 - finsihed grading QRB1 summary, memo, etc...
 - compiled and sent all the student's updated resume and bios
+- created list of students with class conflicts
 
 01/07/2020 - 01/10/2020
 - finished trainings and got access to SharePoint and the course email
