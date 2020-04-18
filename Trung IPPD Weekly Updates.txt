@@ -1,6 +1,10 @@
 # ippd-weekly-updates
 IPPD Course Assistant 
 
+02/22/2020 - 04/17/2020
+- finished grading all the memos and entering in attendance
+- checked the FDR drafts for format and required sections
+
 02/17/2020 - 02/21/2020
 - finished grading memos from last 2 weeks
 - graded quizzes and corresponding attendence
